@@ -1,6 +1,6 @@
 # HOTEL_BIENVENUE
 
-##__Projet : Gestion des réservations d'un hôtel__
+##Projet : Gestion des réservations d'un hôtel
 
 
 __Mise en situation__
