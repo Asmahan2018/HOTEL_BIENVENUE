@@ -1,0 +1,203 @@
+﻿Client; Canal achat ;Type de chambre;Délai réservation (en jours);Nombre de nuits;Tarif _nuit;CA;satisfaction;Nom; Prénom ;e-mail
+1; site internet ; standard ;9;4;106;424,00;5;Heidi; Vargas ;heidi.vargas.interdum@Duis.ca
+3; trivago.fr ; suite familiale ;13;5;185;925,00;10;Odessa; Olsen ; libero.Proin@congueelit.edu 
+15; booking.com ; supérieure ;13;1;128;128,00;6;Avye; Spence ; Nullam.nisl@adipiscinglobortis.ca 
+18; booking.com ; standard ;7;5;88;440,00;10;Keith; Holt ; vel.convallis.in@litora.co.uk 
+22; booking.com ; supérieure ;11;6;128;768,00;7;Tamekah; Johnston ; Donec@ut.net 
+27; site internet ; supérieure ;7;12;139;1668,00;5;Portia; Walls ; sagittis@magnaSedeu.net 
+29; site internet ; suite familiale ;15;23;168;3864,00;8;Cherokee; Preston ; enim.Sed@leoCrasvehicula.org 
+33; booking.com ; suite familiale ;4;2;159;318,00;8;Wylie; Foley ; est.Nunc@egestas.ca 
+36; mail ; supérieure ;5;1;122;122,00;8;Nichole; Carey ; tincidunt.nibh.Phasellus@amagnaLorem.edu 
+36; trivago.fr ; supérieure ;10;5;143;715,00;10;Nichole; Carey ; tincidunt.nibh.Phasellus@amagnaLorem.edu 
+37; tripadvisor.fr ; supérieure ;4;5;131;655,00;8;Cheryl; Cox ; amet.consectetuer@volutpat.co.uk 
+40; booking.com ; standard ;6;4;102;408,00;5;Drew; Lane ; tellus@pharetra.co.uk 
+48; booking.com ; standard ;8;5;106;530,00;6;Merritt; Herrera ; dapibus.id@euaccumsansed.ca 
+50; mail ; standard ;6;8;106;848,00;7;Kalia; Hall ; egestas.Aliquam@sodalesMauris.ca 
+58; tripadvisor.fr ; standard ;5;7;83;581,00;6;Upton; Cummings ; convallis@magnaetipsum.org 
+61; téléphone ; supérieure ;4;2;146;292,00;9;Wing; Townsend ; luctus.et@egestas.edu 
+62; mail ; supérieure ;6;5;142;710,00;6;Katelyn; Glover ; Aliquam.erat@parturientmontesnascetur.com 
+67; téléphone ; suite familiale ;7;7;170;1190,00;7;Dominic; Charles ; non.dapibus.rutrum@antedictumcursus.org 
+70; tripadvisor.fr ; suite familiale ;10;4;168;672,00;5;Aphrodite; Jensen ; eu@pharetrased.ca 
+72; trivago.fr ; standard ;12;6;87;522,00;5;Mona; Sykes ; ligula.eu@leoCrasvehicula.net 
+79; téléphone ; suite familiale ;3;4;170;680,00;9;Burke; Mcfadden ; vulputate@velfaucibusid.com 
+81; tripadvisor.fr ; suite familiale ;4;5;176;880,00;7;Fulton; Powell ; Phasellus.at@Curabituregestasnunc.com 
+86; site internet ; standard ;8;3;122;366,00;7;Jerry; Leonard ; eu@nonvestibulumnec.org 
+89; téléphone ; supérieure ;7;2;101;202,00;8;Cheryl; Lambert ; leo.in.lobortis@pedenonummyut.edu 
+90; site internet ; standard ;10;3;122;366,00;6;Jacob; Romero ; Aliquam.ultrices.iaculis@dictumsapienAenean.edu 
+104; tripadvisor.fr ; supérieure ;4;3;129;387,00;6;Calvin; Byers ; pede.Cras@vitaealiquam.co.uk 
+105; site internet ; supérieure ;8;4;141;564,00;8;Sigourney; Woodard ; felis@acturpis.edu 
+110; téléphone ; supérieure ;2;7;105;735,00;10;Ivory; Mooney ; ipsum@aliquameros.org 
+131; mail ; suite familiale ;9;4;153;612,00;8;Karen; Nelson ; erat.Sed@molestiepharetranibh.com 
+135; booking.com ; standard ;6;4;94;376,00;8;Shay; Alvarez ; orci.in@sollicitudinorcisem.edu 
+136; mail ; suite familiale ;7;2;189;378,00;8;Belle; Rosales ; tortor.Nunc.commodo@arcuVestibulum.org 
+143; téléphone ; supérieure ;10;3;135;405,00;8;Mikayla; Ferrell ; Donec@euismodmauriseu.co.uk 
+144; téléphone ; standard ;10;3;93;279,00;7;Stacy; Eaton ; nibh.Donec.est@felis.edu 
+146; booking.com ; supérieure ;13;3;150;450,00;8;Kiara; Delaney ; et.nunc@feugiatSednec.net 
+147; tripadvisor.fr ; supérieure ;7;8;126;1008,00;8;Ciaran; Lawson ; elit.Nulla.facilisi@feugiatnec.edu 
+150; tripadvisor.fr ; suite familiale ;10;3;184;552,00;6;Igor; Daugherty ; lacus.vestibulum.lorem@in.co.uk 
+156; tripadvisor.fr ; standard ;8;1;88;88,00;10;Charissa; Hutchinson ; lacus.Quisque.purus@leoMorbineque.net 
+162; tripadvisor.fr ; standard ;7;5;85;425,00;7;Axel; Larson ; Mauris.nulla@consectetueradipiscing.edu 
+164; mail ; supérieure ;3;1;148;148,00;7;Stewart; Floyd ; eu.metus@enimcommodohendrerit.org 
+168; trivago.fr ; supérieure ;8;10;130;1300,00;6;Colorado; Alston ; a.feugiat.tellus@pellentesque.co.uk 
+170; trivago.fr ; suite familiale ;3;5;165;825,00;7;Linus; Flynn ; sodales.purus.in@mattis.edu 
+171; mail ; standard ;9;7;107;749,00;8;Joan; Carroll ; egestas.lacinia.Sed@placerateget.org 
+180; trivago.fr ; supérieure ;8;3;145;435,00;6;Xander; Harvey ; arcu@mi.edu 
+194; booking.com ; supérieure ;7;3;139;417,00;7;Rudyard; Luna ; Nunc.ullamcorper.velit@sapien.co.uk 
+211; booking.com ; supérieure ;2;4;131;524,00;6;Alfreda; Spencer ; ac.sem@pretiumetrutrum.org 
+217; booking.com ; suite familiale ;7;1;190;190,00;6;Mia; Santos ; tellus.Phasellus@nequepellentesque.org 
+239; mail ; standard ;8;10;89;890,00;6;Garrett; Frederick ; arcu@hymenaeosMauris.org 
+241; mail ; supérieure ;10;4;125;500,00;7;Doris; Bauer ; erat.eget.ipsum@Nam.com 
+244; booking.com ; standard ;6;4;118;472,00;8;Jerry; Shannon ; Nunc@ipsum.org 
+246; mail ; suite familiale ;10;3;167;501,00;10;Vivien; Estrada ; purus.Nullam.scelerisque@sit.edu 
+250; trivago.fr ; standard ;9;6;106;636,00;8;Keegan; Mcgee ; egestas@consectetuereuismod.co.uk 
+251; téléphone ; supérieure ;8;3;118;354,00;9;Lewis; Burris ; massa.Quisque@lacusvestibulum.ca 
+251; booking.com ; supérieure ;11;2;142;284,00;5;Lewis; Burris ; massa.Quisque@lacusvestibulum.ca 
+252; site internet ; standard ;2;3;135;405,00;6;Erica; Mccarthy ; vehicula.aliquet.libero@pedesagittisaugue.edu 
+261; trivago.fr ; supérieure ;5;2;126;252,00;7;Adena; Christensen ; tincidunt.orci.quis@montes.net 
+264; trivago.fr ; suite familiale ;6;4;182;728,00;4;Blake; Jackson ; sem.Nulla.interdum@etultrices.edu 
+267; tripadvisor.fr ; suite familiale ;7;5;160;800,00;6;Felicia; Roy ; odio.tristique.pharetra@enim.com 
+270; mail ; supérieure ;8;6;137;822,00;7;Kevin; Miles ; pretium@elit.org 
+272; trivago.fr ; standard ;8;7;118;826,00;6;Yeo; Hale ; rhoncus@lectus.net 
+272; site internet ; suite familiale ;8;3;167;501,00;5;Yeo; Hale ; rhoncus@lectus.net 
+274; téléphone ; supérieure ;9;2;122;244,00;8;Blake; Nunez ; et.magnis@Quisquefringilla.ca 
+283; booking.com ; suite familiale ;10;5;169;845,00;6;August; Watts ; vel@necante.edu 
+286; mail ; standard ;8;8;96;768,00;6;Cheyenne; Sanchez ; Aliquam.auctor@lectus.ca 
+288; site internet ; suite familiale ;10;6;169;1014,00;10;Bruce; Lancaster ; eu.ultrices.sit@CurabiturmassaVestibulum.co.uk 
+295; tripadvisor.fr ; standard ;7;5;119;595,00;8;Joelle; Owens ; amet@cursus.ca 
+300; tripadvisor.fr ; standard ;10;5;88;440,00;10;Anastasia; Morgan ; odio.Etiam.ligula@adipiscinglacus.net 
+301; booking.com ; standard ;6;2;120;240,00;10;Kaden; Cooley ; netus.et@auctorullamcorper.edu 
+316; téléphone ; suite familiale ;8;4;182;728,00;8;Maris; Porter ; imperdiet@Quisque.org 
+318; téléphone ; suite familiale ;5;6;155;930,00;8;Olympia; Vincent ; mi.lorem@Integeraliquam.org 
+320; mail ; standard ;9;1;104;104,00;7;Mark; Coffey ; vulputate@Aliquamornare.org 
+321; booking.com ; suite familiale ;4;2;184;368,00;8;Lester; Hicks ; volutpat.Nulla.dignissim@adipiscing.org 
+323; site internet ; suite familiale ;3;2;187;374,00;8;Hakeem; Lancaster ; sapien.gravida@lacus.com 
+333; tripadvisor.fr ; suite familiale ;6;4;170;680,00;10;Hakeem; Lancaster ; sapien.gravida@lacus.com 
+350; mail ; suite familiale ;7;2;182;364,00;7;Lunea; Herring ; tortor.Integer.aliquam@velit.ca 
+353; site internet ; standard ;9;5;119;595,00;4;Randall; Berry ; fames.ac@purusDuiselementum.ca 
+358; téléphone ; suite familiale ;9;8;174;1392,00;5;Susan; Bolton ; feugiat@elit.com 
+360; site internet ; suite familiale ;7;6;168;1008,00;5;Dean; Ayers ; non.justo.Proin@diam.org 
+374; booking.com ; standard ;0;3;115;345,00;5;Adrienne; Roman ; Sed@velitAliquam.net 
+384; téléphone ; supérieure ;5;9;140;1260,00;8;Savannah; Cunningham ; Sed@justo.com 
+400; mail ; supérieure ;6;7;138;966,00;9;Martena; Boyle ; nonummy.ipsum@eleifendnec.com 
+403; site internet ; suite familiale ;11;3;162;486,00;5;Giacomo; Kramer ; dolor@etmagnis.com 
+407; site internet ; supérieure ;12;3;148;444,00;4;Ferdinand; Wall ; a.enim.Suspendisse@anteipsum.edu 
+419; téléphone ; supérieure ;8;4;135;540,00;10;Hop; Cash ; magnis.dis.parturient@quamCurabiturvel.com 
+424; booking.com ; supérieure ;8;8;130;1040,00;6;Quinlan; Kim ; magna@lacus.com 
+427; mail ; supérieure ;5;3;124;372,00;7;Uma; Vazquez ; eleifend.non.dapibus@nibhAliquamornare.net 
+428; mail ; suite familiale ;10;5;157;785,00;5;Cedric; Delacruz ; nisl.sem@ametnullaDonec.co.uk 
+429; tripadvisor.fr ; standard ;0;3;83;249,00;10;Leslie; Horne ; et@Donecestmauris.org 
+434; tripadvisor.fr ; standard ;7;4;80;320,00;6;Aquila; Young ; amet.orci@convallisligula.ca 
+434; trivago.fr ; standard ;4;5;110;550,00;6;Aquila; Young ; amet.orci@convallisligula.ca 
+441; site internet ; suite familiale ;7;30;168;5040,00;7;Breanna; Woods ; augue.ac@urna.org 
+443; tripadvisor.fr ; suite familiale ;2;2;172;344,00;10;Mufutau; Boyle ; risus.Donec@Nunc.edu 
+448; mail ; suite familiale ;6;3;171;513,00;6;Kamal; Wheeler ; Maecenas.libero@malesuada.com 
+449; mail ; suite familiale ;2;7;160;1120,00;4;Cassidy; Carlson ; gravida.Praesent@tellus.ca 
+455; mail ; standard ;6;3;83;249,00;6;Cameron; Blair ; Curabitur@accumsaninterdumlibero.ca 
+456; mail ; suite familiale ;8;8;169;1352,00;6;Shad; Talley ; aliquam@pedeCum.com 
+457; mail ; supérieure ;2;5;143;715,00;5;Macon; Wood ; posuere@liberonec.co.uk 
+473; trivago.fr ; supérieure ;7;3;128;384,00;7;Tanisha; Holmes ; enim.diam@augue.org 
+477; site internet ; supérieure ;14;4;138;552,00;4;Wallace; Ochoa ; tellus.eu.augue@duiinsodales.edu 
+480; booking.com ; suite familiale ;4;5;159;795,00;5;Blythe; Osborne ; id.sapien.Cras@nibh.org 
+481; trivago.fr ; supérieure ;5;5;140;700,00;3;Cheryl; Reeves ; non@nislsem.co.uk 
+483; booking.com ; suite familiale ;3;3;183;549,00;8;Otto; Snider ; a.facilisis.non@placerataugueSed.co.uk 
+485; booking.com ; suite familiale ;7;5;169;845,00;7;Kaitlin; Winters ; tempor.augue.ac@montesnasceturridiculus.com 
+486; téléphone ; suite familiale ;8;3;155;465,00;5;Eagan; Crosby ; nec.cursus.a@Cumsociis.com 
+489; téléphone ; suite familiale ;10;14;179;2506,00;5;Piper; Sloan ; dui@elitEtiam.ca 
+510; mail ; supérieure ;3;3;143;429,00;10;Christen; Hudson ; odio@ametornarelectus.net 
+517; téléphone ; supérieure ;5;6;123;738,00;8;DUPONT; Alain ; alain.dupont@wanadoo.fr 
+528; booking.com ; supérieure ;11;6;143;858,00;8;MARTIN; Marc ; mmartin@transports_martin_fils.fr 
+529; mail ; suite familiale ;6;5;173;865,00;10;BOUVIER; Alain ; abouvier@aol.com 
+549; booking.com ; suite familiale ;16;2;177;354,00;10;DUBOIS; Paul ; dubois@alice.com 
+552; site internet ; standard ;11;5;126;630,00;6;DREYFUS; Jean ; pdreyfus@club-internet.fr 
+555; trivago.fr ; suite familiale ;8;6;187;1122,00;8;FAURE; Alain ; rantanplan@aol.com 
+556; booking.com ; standard ;5;3;117;351,00;10;LACOMBE; Paul ; paul.lacombe@wanadoo.fr 
+561; booking.com ; standard ;8;5;90;450,00;9;DUHAMEL; Evelyne ; evelyne@live,fr 
+561; site internet ; suite familiale ;7;4;168;672,00;10;DUHAMEL; Evelyne ; evelyne@live,fr 
+579; site internet ; standard ;8;22;128;2816,00;5;BOYER; Martine ; martine.boyer@cabinet.boyer.fr 
+580; téléphone ; supérieure ;3;4;105;420,00;6;MARTIN; Martin ; mboyer@club-internet.fr 
+584; téléphone ; supérieure ;10;17;120;2040,00;5;PAUL; Marcel ; mpaul@free,fr 
+589; trivago.fr ; supérieure ;4;7;126;882,00;7;DUVAL; Arsène ; aduval@club-internet.fr 
+591; mail ; suite familiale ;1;1;178;178,00;8;PHILIPPE; André ; plongeur@aol.com 
+600; tripadvisor.fr ; suite familiale ;7;1;184;184,00;10;PIERRELAYE; Paul ; agerim@pacwan.azur.fr 
+611; booking.com ; standard ;5;2;98;196,00;10;DAUMIER; Amélie ; SOFALIS@wanadoo.fr 
+614; site internet ; standard ;9;2;158;316,00;7;CHABAUD; Daniel ; cozet@infonie.fr 
+615; mail ; standard ;12;6;83;498,00;6;BAILLY; Jean-Francois ; jfbailly@pacwan.azur.fr 
+619; mail ; standard ;9;3;99;297,00;9;FAYOLLE; Olivier ; Fayolle@planetb.fr 
+627; tripadvisor.fr ; suite familiale ;1;5;190;950,00;10;COCINO; Gérard ; jpfparis@club-internet.fr 
+634; mail ; supérieure ;8;7;138;966,00;6;FRANQUINET; Florent ; Alain.Gardeur@wanadoo.fr 
+634; mail ; supérieure ;8;6;146;876,00;5;FRANQUINET; Florent ; Alain.Gardeur@wanadoo.fr 
+635; tripadvisor.fr ; supérieure ;4;3;144;432,00;8;MALATERRE; Arnaud ; maison-immobilier@icare.fr 
+640; tripadvisor.fr ; supérieure ;5;4;146;584,00;8;MEDARD; Jacques ; stonesandsun@mnet.fr 
+641; booking.com ; supérieure ;8;3;126;378,00;5;AUZENAT; Michel ; Terrains31@aol.com 
+643; téléphone ; standard ;8;2;92;184,00;9;CHTCHEPINE; Dominique ; property@cybercom.fr 
+644; tripadvisor.fr ; standard ;5;3;117;351,00;5;LE GUILLARD; Alain ; ydern@club-internet.fr 
+646; mail ; supérieure ;8;6;121;726,00;6;GARREAU; Paul ; prodom@allia-com.fr 
+648; trivago.fr ; standard ;11;4;85;340,00;10;LECUYER; Lionel ; poquet@alpes-net.fr 
+648; téléphone ; suite familiale ;4;4;168;672,00;9;LECUYER; Lionel ; poquet@alpes-net.fr 
+658; booking.com ; supérieure ;9;4;127;508,00;6;PRA-LETTRY; Emmanuel ; athos2@msn.com 
+658; booking.com ; supérieure ;2;5;148;740,00;6;PRA-LETTRY; Emmanuel ; athos2@msn.com 
+664; mail ; suite familiale ;14;3;186;558,00;7;SILLET; Jacques ; stif@meteor.avo.net 
+666; booking.com ; standard ;6;2;101;202,00;5;TROLLAT; Hervé ; euro-prospect@calva.net 
+672; booking.com ; suite familiale ;11;4;168;672,00;7;BOUCHET; Michel ; acces.immobilier@wanadoo.fr 
+674; trivago.fr ; suite familiale ;6;5;181;905,00;10;LEBAILLIF; Christian ; webmaster@immo-mb.fr 
+688; site internet ; standard ;4;1;135;135,00;7;DU HAUT CILLY; Guy ; dreyfus@planetb.fr/ 
+692; booking.com ; supérieure ;10;5;130;650,00;4;GALLACIER; Noelle ; joussely@club-internet.fr 
+696; site internet ; suite familiale ;11;3;175;525,00;9;PICOT; Dominique ; marcimmo@ebc.net 
+704; tripadvisor.fr ; standard ;9;4;93;372,00;10;BEAUNEE; Pierre ; cmi@virtualaccess.net 
+706; téléphone ; standard ;10;1;91;91,00;8;VERNET; Daniel ; dgtb@martien.com 
+720; téléphone ; standard ;7;4;87;348,00;5;ALBERT; Christian ; elfio@dugudu.fr 
+729; mail ; standard ;4;5;113;565,00;4;HESS; Lucette ; dpr@magousta.com 
+730; mail ; suite familiale ;10;3;157;471,00;6;CHATON; Gérard ; alain.forqueville@calva.com 
+733; mail ; supérieure ;6;3;139;417,00;10;PLATONOFF; Philippe ; adji@nolan.fr 
+734; téléphone ; supérieure ;7;5;137;685,00;7;LETERRIER; Monique ; herbert@wise.fr 
+740; booking.com ; supérieure ;8;6;145;870,00;6;MONTEIL; Jean ; djin@telecom.fr 
+746; tripadvisor.fr ; standard ;8;5;111;555,00;6;SPITHAKIS; Jean-Paul ; amoebius@club-internet.fr 
+749; trivago.fr ; suite familiale ;5;3;179;537,00;10;ORELL; Olivier ; prospect@calva.net 
+750; téléphone ; supérieure ;7;4;121;484,00;4;MARTINET; Carmen ; immobilier@wanadoo.fr 
+752; site internet ; standard ;9;2;93;186,00;7;RAY; Yannick ; web@immo-mb.fr 
+753; téléphone ; supérieure ;9;5;148;740,00;9;TARSAC; René ; tarsac@planetb.fr/ 
+765; mail ; supérieure ;6;1;136;136,00;8;COULOMB; Renaud ; coulombr@club-internet.fr 
+777; site internet ; standard ;5;4;157;628,00;3;SAVY; Jean-Claude ; marcsavyo@ebc.net 
+779; téléphone ; standard ;11;2;94;188,00;10;DAVID; Jacqueline ; cmi.david@virtualaccess.net 
+781; booking.com ; suite familiale ;9;1;186;186,00;5;FORGEOT; Jean-Bernard ; dgtbforgeot@martien.com 
+784; mail ; supérieure ;10;3;122;366,00;9;BERGER; Jean-Pierre ; elfio@dugu.fr 
+787; site internet ; suite familiale ;3;4;177;708,00;10;DOUBLET; Thierry ; doubletpr@magousta.com 
+788; mail ; suite familiale ;11;7;161;1127,00;10;MATHIEU; Gérard ; alain.mathieu@calva.com 
+792; mail ; supérieure ;6;5;136;680,00;9;MOURGUES; Jacqueline ; mourgues@nolan.fr 
+794; téléphone ; supérieure ;11;3;115;345,00;8;PIERROT; Robert ; robert@wise.fr 
+797; booking.com ; supérieure ;2;23;147;3381,00;8;FRANQUEBALME; Daniel ; djindaniel@telecom.fr 
+801; téléphone ; standard ;5;1;93;93,00;7;ZAMPIERO; Annick ; zampiero@club-internet.fr 
+814; mail ; suite familiale ;0;4;168;672,00;10;PASCOT; Vincent ; SOLIS@wanadoo.fr 
+819; mail ; suite familiale ;3;4;186;744,00;9;MECHRI; Pierre ; mechri@infonie.fr 
+836; mail ; supérieure ;8;2;134;268,00;5;THIERY; Fathy ; thierry.fathy@azur.fr 
+864; tripadvisor.fr ; standard ;6;5;97;485,00;7;ROURE; Marie-Louise ; roure@planetb.fr 
+866; mail ; supérieure ;4;4;145;580,00;6;VILLE; Jean-Paul ; paris@gmail.com 
+870; tripadvisor.fr ; standard ;8;8;94;752,00;9;NOCENTINI; Alain ; Alain@wanadoo.fr 
+873; tripadvisor.fr ; supérieure ;10;5;122;610,00;7;LAYANI; Lionel ; maison-layani@icare.fr 
+879; site internet ; standard ;9;4;129;516,00;6;RECHUL; Jacques ; rechul@mnet.fr 
+882; trivago.fr ; suite familiale ;3;4;186;744,00;10;DE CONINCK; Patricia ; patricia.de@aol.com 
+883; booking.com ; suite familiale ;10;4;161;644,00;4;LEI; Alain ; lei@cybercom.fr 
+885; trivago.fr ; standard ;6;2;83;166,00;8;MICHEL; Fernand ; michel@club-internet.fr 
+891; téléphone ; standard ;8;3;100;300,00;7;BOURA; André ; prodomboura@gmail.com 
+891; site internet ; suite familiale ;5;4;190;760,00;10;BOURA; André ; prodomboura@gmail.com 
+893; trivago.fr ; suite familiale ;5;3;165;495,00;7;CARDONA; Philippe ; cardonat@alpes-net.fr 
+901; téléphone ; supérieure ;7;4;138;552,00;8;THOMASSE; Jean-Claude ; athomasse2@msn.com 
+901; tripadvisor.fr ; suite familiale ;3;4;183;732,00;10;THOMASSE; Jean-Claude ; athomasse2@msn.com 
+916; téléphone ; supérieure ;9;5;122;610,00;3;MOURIES; Nathalie ; mouries@meteor.avo.net 
+920; téléphone ; supérieure ;6;6;139;834,00;9;MARTIN; Jean-Pierre ; mjp@calva.net 
+921; booking.com ; standard ;4;2;109;218,00;7;BENZAQUI; Joël ; benzaqui@wanadoo.fr 
+927; téléphone ; supérieure ;4;2;101;202,00;9;ROUSSILLON; Alain ; webmaster@roussilon.fr 
+928; mail ; supérieure ;10;2;139;278,00;7;FARGETTON; Denis ; fargettondenis@planetb.fr 
+937; mail ; suite familiale ;0;4;173;692,00;9;LEPERCQ; Jean-Claude ; jousselylepercq@gmail.com 
+954; booking.com ; supérieure ;2;4;132;528,00;8;OLIVIA; Hubert ; oliviahubert@wanadoo.fr 
+956; trivago.fr ; supérieure ;7;8;134;1072,00;5;CASTAREDE; Jean-Jacques ; castarede@infonie.fr 
+960; site internet ; standard ;8;5;110;550,00;7;LEOTARD; Jean-Paul ; leotardy@pacwan.azur.fr 
+960; mail ; supérieure ;9;5;129;645,00;8;LEOTARD; Jean-Paul ; leotardy@pacwan.azur.fr 
+966; tripadvisor.fr ; supérieure ;10;2;122;244,00;4;LALANDE; Colette ; lalande@planetb.fr 
+967; trivago.fr ; standard ;9;2;86;172,00;7;BAVEREL; Frédéric ; baverel@msn.fr 
+980; booking.com ; standard ;9;18;116;2088,00;5;NOEL; Régis ; regis.noel@wanadoo.fr 
+990; téléphone ; suite familiale ;3;5;179;895,00;8;THIRIOT; Jacky ; thiriot@icare.fr 
+996; téléphone ; standard ;8;6;86;516,00;8;BERTRAND; Christophe ; bertrandchristophe@mnet.fr 
+999; booking.com ; suite familiale ;9;6;170;1020,00;9;BACQUE; Michel ; bacque.michel@aol.com 
+;;;;;;;;;;
+;;;;;;;;;;
